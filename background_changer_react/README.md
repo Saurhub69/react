@@ -1,8 +1,15 @@
-# React + Vite
+# React Project with Background Color Changing
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This simple React project allows users to change the background color dynamically. It uses Tailwind CSS for styling and localStorage to persist the selected background color even after a page reload.
 
-Currently, two official plugins are available:
+## Getting Started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run this project locally, follow these steps:
+
+Clone the Repository
+
+   git clone https://github.com/your-username/your-react-project.git
+   cd your-react-project
+
+
+
